@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi !!
 
 I'm Souna, I use Lua and its game framework LÖVE2D.<br/>
 ꩜ I code as a hobby and I'm currently working on a set of Lua and L2D scripts to help to easily develop Yume Nikki fangames.<br/>
